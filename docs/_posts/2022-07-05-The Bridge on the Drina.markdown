@@ -2,6 +2,7 @@
 layout: post
 title:  "The Bridge on the Drina, An Enquiry into Human Nature"
 date:   2022-07-05 21:08:56 -0400
+permalink: "/The-Bridge-on-the-Drina/"
 categories: Book review
 ---
 
