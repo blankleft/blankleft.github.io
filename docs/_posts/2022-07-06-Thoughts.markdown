@@ -4,6 +4,9 @@ title: "Thoughts"
 date: 2022-07-06 14:00:00 -0400
 permalink: "/thoughts/"
 ---
+### July 7, 2022
+Pittsburgh has the most beautiful clouds I've ever seen, anywhere. 
+![sunset](/assets/img/Sunset.jpg)
 
 ### July 6, 2022
 Are we too obsessed with growth? Am I too obsessed with growth?
