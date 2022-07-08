@@ -6,7 +6,7 @@ permalink: "/thoughts/"
 ---
 ### July 7, 2022
 Pittsburgh has the most beautiful clouds I've ever seen, anywhere. 
-![sunset](/assets/img/Sunset-min.JPG)
+![sunset](/docs/assets/img/Sunset-min.JPG)
 
 ### July 6, 2022
 Are we too obsessed with growth? Am I too obsessed with growth?
