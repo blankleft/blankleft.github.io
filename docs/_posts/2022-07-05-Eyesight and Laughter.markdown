@@ -3,7 +3,7 @@ layout: post
 title:  "Eyesight and Laughter: A Review of The Book of Laughter and Forgetting"
 date:   2022-07-05 21:08:56 -0400
 categories: Book review
-permalink: "/Eyesight-and-Laughter/"
+permalink: "/books/review-the-book-of-laughter-and-forgetting-milan-kundera/"
 categories: general
 ---
 
