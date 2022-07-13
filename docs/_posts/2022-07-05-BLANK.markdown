@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: blank
 title:  "BLANK"
 date:   2022-07-05 21:08:56 -0400
 categories: General
+excerpt: "None"
+comments: false
 ---
 
-**THIS PAGE INTENTIONALLY LEFT BLANK**
+<center><h1>THIS PAGE INTENTIONALLY LEFT BLANK</h1></center>

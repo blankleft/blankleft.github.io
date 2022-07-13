@@ -3,7 +3,10 @@ layout: post
 title: "Thoughts"
 date: 2022-07-06 14:00:00 -0400
 permalink: "/thoughts/"
+excerpt: "None"
+comments: false
 ---
+
 ### July 7, 2022
 Pittsburgh has the most beautiful clouds I've ever seen, anywhere. 
 ![sunset](/assets/img/Sunset.JPG)

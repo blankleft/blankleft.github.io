@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Book review: Journal 1935–1944: The Fascist Years"
+title:  "Journal 1935–1944: The Fascist Years"
 date:   2022-07-13 17:00:00 -0400
 permalink: "/books/review-journal-1935-1944-the-fascist-years-mihail-sebastian/"
 categories: Book review
 comments: true
-excerpt: This is an excerpt
+excerpt: In his diaries, Mihail Sebastian documents life in Romania in the Fascist years. 
 ---
 
 <b><i>"In the end, there is something artificial in the very fact of keeping a private diary; nowhere does the act of writing seem more false," Mihail Sebastian wrote in his diary. "It lacks the excuse of being a means of communication, just as it lacks any immediate necessity." It is ironic that his private diary has indeed become "a means of communication," as it was eventaully published and read by many. Like Sebastian, I have been journaling consistently for the past year or so, and I made the resolution to journal everyday in July, which I have so far kept. Will anyone ever read my diary? Who would that person be? I wonder.</i></b>

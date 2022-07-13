@@ -5,6 +5,7 @@ date:   2022-07-05 21:08:56 -0400
 categories: Book review
 permalink: "/books/review-the-book-of-laughter-and-forgetting-milan-kundera/"
 categories: general
+excerpt: "None"
 ---
 
 *The Book of Laughter and Forgetting* is a novel written by Milan Kundera in Czech between 1976 and 1978. First published in France in 1979, the book is translated into English from French by Aaron Asher. The book does not read like a traditional novel, because it does not have a coherent plot. Instead, the book is composed of seven stories weaved together by some common themes, and the narration of these stories are interwoven with Kundera’s memoirs, philosophical meditations, and historical background, among which Kundera’s philosophy of life interested me the most. Two illuminating observations about our human condition are our differing perspectives and the nature of laughter. 
