@@ -7,6 +7,10 @@ categories: Book review
 excerpt: "None"
 ---
 
+![bridge](/assets/img/drina_bridge.jpg)
+<p style="text-align: center">
+Andrićgrad and Mehmed Paša Sokolović Bridge,
+<a href="https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D1%88%D0%B5%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0_%D1%9B%D1%83%D0%BF%D1%80%D0%B8%D1%98%D0%B0_%D1%81%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B8%D1%9B%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%BC_2.jpg">JankoSam</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons </p>
 
 *The Bridge on the Drina* is a historical novel written by the Yugoslav writer and Nobel Prize in Literature laureate Ivo Andrić. The book tells the stories and events that happened near the Mehmed Paša Sokolović Bridge in Višegrad, a town in present day Bosnia and Herzegovina, bordering Serbia, from the construction of the bridge over the Drina River during the rule of the Ottoman Empire in the mid-sixteenth century to the partial destruction of the bridge during World War I. 
 
