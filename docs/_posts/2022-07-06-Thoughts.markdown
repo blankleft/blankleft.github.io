@@ -15,7 +15,7 @@ Zola? Kundera? Sartre? Orwell? It was amazing. "I wish we were at my house!" she
 
 I ended up leaving with a stack of books, held by both hands and secured by my chin so they wouldn't fall. I was overjoyed because I got free books, and Prof. Harsch also seemed happy as someone (may) read her books. I was very grateful. 
 
-![books](/assests/img/books.jpg)
+![books](/assets/img/books.jpg)
 <p style="text-align: center"> 
 A stack of books I got from Prof. Harsh </p>
 
