@@ -1,0 +1,13 @@
+---
+layout: post
+title: "What I'm reading"
+date: 2022-07-26 12:00:00 -0400
+permalink: "/read/"
+excerpt: "None"
+comments: false
+---
+
+### Tuesday, July 26, 2022
+[Why Study Humanities? What I Tell Engineering Freshmen](https://blogs.scientificamerican.com/cross-check/why-study-humanities-what-i-tell-engineering-freshmen/)
+
+
