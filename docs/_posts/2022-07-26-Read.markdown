@@ -12,7 +12,7 @@ comments: false
 
 - “For many in this driven generation, more of whom than ever now rank themselves as more competitive than their peers, self-criticism is their Red Bull. By their logic, you can’t move yourself forward, racking up achievements and building out your résumé, without beating yourself up.
 - “While self-criticism may give us a swift kick in the pants, it elevates symptoms of anxiety and depression in the long run.
-- "Self-compassion has been shown by researchers to ease symptoms of psychopathology in adults, while bolstering motivation and high performance standards
+- "Self-compassion has been shown by researchers to ease symptoms of psychopathology in adults, while bolstering motivation and high performance standards.
 - "Self-compassion encourages mindfulness, or noticing your feelings without judgment; self-kindness, or talking to yourself in a soothing way; and common humanity, or thinking about how others might be suffering similarly.
 - “ 'There’s almost no one whom we treat as badly as ourselves.'
 - "[S]elf compassion lets you own up to a tough moment without paying for it with your self-worth. This new logic teaches students that they don’t have to be perfect to be worthy."
